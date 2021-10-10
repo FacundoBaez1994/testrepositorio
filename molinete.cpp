@@ -12,6 +12,7 @@ Molinete:: Molinete () {
 	this -> personasQueSalieron = 0;
 	this -> maximoPersonasDentro = 0;
 	this -> estado = DESBLOQUEADO;
+
 }
 
 void Molinete:: setMaximoPersonasDentro (unsigned int seteoPersonas) {

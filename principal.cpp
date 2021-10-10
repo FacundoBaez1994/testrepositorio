@@ -9,6 +9,7 @@
 
 int main ()
 {
+	std::cout <<"HOLA!" << std::endl;
 	Molinete * Molinete1 = new Molinete ();
 	Molinete1 -> setMaximoPersonasDentro (10);
 
